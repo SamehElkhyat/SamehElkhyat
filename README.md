@@ -25,25 +25,12 @@
 
 I build production web apps for real businesses — **customs clearance**, **building inspection**, **legal case management** — with an obsession for speed, clean component architecture, and interfaces that feel effortless.
 
-```ts
-const sameh = {
-  role:      "Frontend Engineer",
-  base:      "Cairo, Egypt 🇪🇬",
-  currently: "Building Takhlees Tech & Fahs @ Ahmed Almosa",
-
-  stack: {
-    core:    ["TypeScript", "React", "Next.js", "Redux"],
-    mobile:  ["React Native", "Reanimated"],
-    styling: ["Tailwind CSS", "CSS Modules"],
-    backend: ["Node.js", "Express", "MongoDB"],
-    tooling: ["Docker", "Git", "Figma", "Vercel"],
-  },
-
-  craft:    ["Performance", "Reusable component systems", "Fluid motion"],
-  learning: ["Next.js App Router", "Node.js at scale"],
-  openTo:   ["Freelance projects", "Product collaborations"],
-} as const;
-```
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/about-dark.svg" />
+    <img src="./assets/about-light.svg" width="100%" alt="Frontend Engineer based in Cairo, Egypt. Currently building Takhlees Tech and Fahs at Ahmed Almosa. Stack: TypeScript, React, Next.js, Redux, React Native, Reanimated, Tailwind CSS, CSS Modules, Node.js, Express, MongoDB, Docker, Git, Figma, Vercel. Open to freelance and collaborations." />
+  </picture>
+</p>
 
 <!-- ═════════════════════════════  IMPACT  ═════════════════════════════ -->
 
